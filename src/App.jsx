@@ -62,8 +62,6 @@ const App = () => {
 		status: 0,
 	});
 
-	console.log(stories);
-
 	const handleFetchStories = useCallback(async () => {
 		dispatchStories({ type: "STORIES_FETCH_INIT" });
 		const [response, status] = await StoriesService.getStories(query);

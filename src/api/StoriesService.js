@@ -12,7 +12,6 @@ export default class StoriesService {
 			});
 			return [response, response.status];
 		} catch (err) {
-			console.error(err);
 			return [null, err.response.status];
 		}
 	}
