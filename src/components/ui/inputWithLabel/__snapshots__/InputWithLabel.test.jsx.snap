@@ -1,0 +1,10 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`InputWithLabel > renders snapshot 1`] = `
+<label
+  class="_label_1ba982"
+  for="input1"
+>
+  Search
+</label>
+`;

@@ -1,0 +1,16 @@
+.container {
+	max-width: 1000px;
+	margin: 0 auto;
+	padding: 20px;
+
+	background-color: #83a4d4;
+	background-image: linear-gradient(to left, #b6fbff, #83a4d4);
+	color: #171212;
+}
+
+.headlinePrimary {
+	font-size: 48px;
+	font-weight: 300;
+	letter-spacing: 2px;
+	text-align: center;
+}

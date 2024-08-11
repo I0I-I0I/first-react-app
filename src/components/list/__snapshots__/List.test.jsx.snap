@@ -1,0 +1,76 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`List > renders snapshot 1`] = `
+<ul>
+  <li
+    class="_item_d7d403"
+  >
+    <a
+      href="https://reactjs.org/"
+      style="width: 40%;"
+      target="_blank"
+    >
+      React
+    </a>
+    <span
+      style="width: 30%;"
+    >
+      Jordan Walke
+    </span>
+    <span
+      style="width: 10%;"
+    >
+      3
+    </span>
+    <span
+      style="width: 10%;"
+    >
+      4
+    </span>
+    <span
+      style="width: 10%;"
+    >
+      <button
+        class="_button_3c5126 _buttonSmall_3c5126"
+      >
+        delete
+      </button>
+    </span>
+  </li>
+  <li
+    class="_item_d7d403"
+  >
+    <a
+      href="https://redux.js.org/"
+      style="width: 40%;"
+      target="_blank"
+    >
+      Redux
+    </a>
+    <span
+      style="width: 30%;"
+    >
+      Dan Abramov, Andrew Clark
+    </span>
+    <span
+      style="width: 10%;"
+    >
+      2
+    </span>
+    <span
+      style="width: 10%;"
+    >
+      5
+    </span>
+    <span
+      style="width: 10%;"
+    >
+      <button
+        class="_button_3c5126 _buttonSmall_3c5126"
+      >
+        delete
+      </button>
+    </span>
+  </li>
+</ul>
+`;

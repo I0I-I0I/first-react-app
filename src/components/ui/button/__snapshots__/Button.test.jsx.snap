@@ -1,0 +1,10 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Button > snapshot 1`] = `
+<button
+  class="_button_3c5126 _buttonLarge_3c5126"
+  disabled=""
+>
+  Test
+</button>
+`;

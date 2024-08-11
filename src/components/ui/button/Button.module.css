@@ -1,0 +1,23 @@
+.button {
+	background-color: transparent;
+	border: 1px solid #171212;
+	cursor: pointer;
+	transition: all 0.1s ease-in;
+
+	&:hover {
+		background-color: #171212;
+		color: #fff;
+	}
+
+	&:disabled {
+		pointer-events: none;
+	}
+}
+
+.buttonSmall {
+	padding: 5px;
+}
+
+.buttonLarge {
+	padding: 10px;
+}
